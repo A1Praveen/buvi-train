@@ -1,0 +1,46 @@
+
+ header
+{
+    display:block;
+    font-size: x-large;
+    font-weight: 400px;
+    font-style: oblique;
+    margin: 100px;
+    background-color: rgb(74, 125, 179);
+    text-align:center;
+    width:fit-content;
+    
+
+    
+}
+p
+{
+    display: block;
+    font-style: italic;
+    margin-inline-start:0% ;
+    margin: inline end 1px; ;
+    size: adjust 0%;;
+    background-color: rgb(43, 144, 226);
+    text-align: start;
+    text-decoration-color: rgb(0, 153, 255);
+    width: fit-content;
+    
+}
+nav{
+    background-color: rgb(5, 183, 247);
+    text-align: center;
+    width: fit-content;
+}
+section{
+    background-color: rgb(15, 150, 217);
+    text-align: center;
+    width: fit-content;
+}
+aside{
+    background-color: rgb(12, 184, 241);
+    width: fit-content;
+}
+article{
+    background-color: rgb(56, 176, 236);
+    width: fit-content;
+}
